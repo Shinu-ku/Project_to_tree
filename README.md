@@ -107,12 +107,6 @@ Helpful for explaining folder structures in tutorials or assignments.
 
 ---
 
-## License
-
-MIT License (optional)
-
----
-
 ## Author
 
 Created by **Soumya Kushwah**
